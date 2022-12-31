@@ -108,3 +108,29 @@ Since the Mac/iOS platforms prefer GCD to OpenMP for multiple-core parallel prog
 [1] Wu, Xiaoling, Shuhua Gao, Dong-Yan Huang, and Cheng Xiang. "Voichap: A standalone real-time voice change application on iOS platform." In 2017 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 728-732. IEEE, 2017.
 
 [2] Gao, Shuhua, Xiaoling Wu, Cheng Xiang, and Dongyan Huang. "Development of a computationally efficient voice conversion system on mobile phones." APSIPA Transactions on Signal and Information Processing 8 (2019). [PDF](https://www.researchgate.net/publication/330140206_Development_of_a_computationally_efficient_voice_conversion_system_on_mobile_phones)
+
+PANIZ ESLAMI TAMIJANI 40114140111026 ISLAMIC AZAD UNIVERSITY SOUTH TEHRAN DR.MAHDI ESLAMI 
+
+target
+Among all the mechanisms that allow humans communicating and 
+interacting with each other, speech is the most natural and precise one. 
+Nowadays, the scientific community tries to face the challenge of designing 
+speech-based human-computer interfaces, extending the role of speech to 
+certain real-life situations in which more primitive ways of interaction 
+(keyboard, mouse, joystick, graphic user interfaces, commands, buttons, etc.) 
+are used until present. In other words, it is intended to make machines 
+recognise well what human speakers say, and answer by generating output 
+utterances that the listeners are capable of understanding, trying to imitate the 
+human way of communicating with similar naturalness and precision. The 
+development of speech technologies has led to a wide variety of research areas 
+related to different tasks involved in making computers interact orally with 
+humans: modelling of speech production and perception, prosody analysis and 
+generation, speech and audio processing, enhancement, coding and 
+transmission, speech synthesis, analysis and synthesis of emotions in expressive 
+speech, speech and speaker recognition, speech understanding, accent and 
+language identification, cross- and multi-lingual processing, multimodal signal 
+processing, dialogue systems, information retrieval, translation, applications for 
+handicapped persons, etc.
+
+
+
